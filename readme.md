@@ -25,7 +25,7 @@ $ npm install
 ### Npm install
 
 ```bash
-$ npm install
+$ touch database/database.sqlite
 ```
 
 ---
